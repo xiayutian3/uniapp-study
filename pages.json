@@ -52,7 +52,16 @@
 					    "enablePullDownRefresh": false
 					}
 				}
-			]
+			    ,{
+                    "path" : "chat/chat",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "知心姐姐聊天",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
 		}
 	],
 	//预下载分包设置
